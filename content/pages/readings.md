@@ -208,7 +208,7 @@ Maherali, N., R. Sridharan, W. Xie, J. Utikal, S. Eminli, K. Arnold, M. Stadtfel
 Ethics discussion
 {{< tdclose >}}
 {{< tdopen >}}
-Domestic Policy Council. The White House. "Advancing Stem Cell Science Without Destroying Human Life." January 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.lpca.us/stemcell_010907.pdf))
+Domestic Policy Council. The White House. "Advancing Stem Cell Science Without Destroying Human Life." January 2007. ([PDF](http://www.lpca.us/stemcell_010907.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
